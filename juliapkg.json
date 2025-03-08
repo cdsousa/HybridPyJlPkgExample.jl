@@ -1,0 +1,9 @@
+{
+    "packages": {
+        "HybridPyJlPkgExample": {
+            "uuid": "046c9583-fc7c-4f0b-bff9-d04135c12147",
+            "dev": true,
+            "path": ""
+        }
+    }
+}
