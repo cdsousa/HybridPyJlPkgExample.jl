@@ -1,0 +1,13 @@
+[project]
+name = "hybridpyjlpkgexample"
+version = "0.0.0"
+dependencies = ["juliacall"]
+
+[tool.setuptools]
+packages = ["hybridpyjlpkgexample"]
+
+[tool.setuptools.package-dir]
+hybridpyjlpkgexample = ""
+
+[tool.setuptools.package-data]
+hybridpyjlpkgexample = ["**/*"]

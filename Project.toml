@@ -1,0 +1,5 @@
+name = "HybridPyJlPkgExample"
+uuid = "046c9583-fc7c-4f0b-bff9-d04135c12147"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
